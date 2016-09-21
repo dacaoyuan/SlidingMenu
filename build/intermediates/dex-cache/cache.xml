@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\android_kaifa\SlidingMenu\example\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a2285b9efffee0a5942c78abacd786447e3fa84c">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ab035d11f338cf566329dd7177ef0498b87a1aa\classes.dex" />
+    </item>
+    <item
+        jar="F:\android_kaifa\SlidingMenu\example\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_87157737f3c3c26eb385b75e1ed0634eb8a7527c\classes.dex" />
+    </item>
+    <item
+        jar="F:\android_kaifa\SlidingMenu\example\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e8ccf4eff0ea89216fe0d41c1065fa4cd29b4d9b">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afdc88ec9808397f817751d830c93ce580375bc6\classes.dex" />
+    </item>
+    <item
+        jar="F:\android_kaifa\SlidingMenu\example\libs\crittercism_v3_0_3_sdkonly.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\2\crittercism_v3_0_3_sdkonly_f9dae74802c78f0aa8cf9eee7031053159f3db1d\classes.dex" />
+    </item>
+    <item
+        jar="F:\android_kaifa\SlidingMenu\example\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_39fdd48c20cc8af4695ccc7137a037adf02414af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\abc\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_d8b6018f1a1df5c5be73c09902707c159260b3bf\classes.dex" />
+    </item>
+
+</items>

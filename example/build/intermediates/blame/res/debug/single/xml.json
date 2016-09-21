@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\example\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "F:\\android_kaifa\\SlidingMenu\\example\\src\\main\\res\\xml\\main.xml"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "F:\\android_kaifa\\SlidingMenu\\app\\src\\main\\res\\xml\\main.xml"
+    }
+]

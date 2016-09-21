@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_github.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_github.png"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\example\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\indicator.png"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_github.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\example\\src\\main\\res\\drawable-hdpi\\ic_action_github.png"
+    },
+    {
+        "merged": "F:\\android_kaifa\\SlidingMenu\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator.png",
+        "source": "F:\\android_kaifa\\SlidingMenu\\example\\src\\main\\res\\drawable-hdpi\\indicator.png"
+    }
+]

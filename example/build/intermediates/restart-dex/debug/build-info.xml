@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="21643363526390" >
+
+    <task
+        name="javac"
+        duration="990" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="507" />
+    <task
+        name="verifier"
+        duration="777" />
+
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afdc88ec9808397f817751d830c93ce580375bc6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ab035d11f338cf566329dd7177ef0498b87a1aa\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_d8b6018f1a1df5c5be73c09902707c159260b3bf\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_39fdd48c20cc8af4695ccc7137a037adf02414af\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\2\crittercism_v3_0_3_sdkonly_f9dae74802c78f0aa8cf9eee7031053159f3db1d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_87157737f3c3c26eb385b75e1ed0634eb8a7527c\classes.dex"
+        type="DEX" />
+
+    <build timestamp="21446017187927" >
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="21643363526390" >
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afdc88ec9808397f817751d830c93ce580375bc6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ab035d11f338cf566329dd7177ef0498b87a1aa\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_d8b6018f1a1df5c5be73c09902707c159260b3bf\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_39fdd48c20cc8af4695ccc7137a037adf02414af\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\2\crittercism_v3_0_3_sdkonly_f9dae74802c78f0aa8cf9eee7031053159f3db1d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="F:\android_kaifa\SlidingMenu\example\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_87157737f3c3c26eb385b75e1ed0634eb8a7527c\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
